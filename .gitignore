@@ -1,0 +1,26 @@
+# Ignore NetBeans-specific files and directories
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbactions.xml
+
+# Ignore deployment directory
+/build/web/
+
+# Ignore configuration files
+/build/WEB-INF/classes/
+
+# Ignore the build.xml file
+/build.xml
+
+# Ignore Maven specific files
+/target/
+
+# Ignore temporary files
+*~
+*.swp
+*.bak
+
+# Ignore log files
+*.log
